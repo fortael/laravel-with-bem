@@ -1,0 +1,26 @@
+{
+  "name": "laravel-with-bem",
+  "description": "laravel with bem",
+  "main": "index.js",
+  "authors": [
+    "fortael <fortael@yahoo.com>",
+    "usa_com <usa.com9797@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "bem",
+    "laravel"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bem-core": "^3.0.1"
+  }
+}
