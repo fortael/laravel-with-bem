@@ -1,11 +1,12 @@
 @extends('layout.page')
 
 @section('content')
-    @include('blocks_desktop.video.video')
 
-    @foreach($items as $one)
-        {!! $item !!} <br>
-    @endforeach
+        @include('blocks-topic.user-profile.user-profile')
+
+        @foreach($items as $one)
+            {!! $item !!} <br>
+        @endforeach
 @stop
 
 @section('css')

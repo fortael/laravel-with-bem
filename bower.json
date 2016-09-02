@@ -21,6 +21,8 @@
     "tests"
   ],
   "dependencies": {
-    "bem-core": "^3.0.1"
+    "bem-core": "^3.0.1",
+    "ym": "^0.1.2",
+    "jquery": "^3.1.0"
   }
 }

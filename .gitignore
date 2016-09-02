@@ -1,5 +1,12 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 .bem/tmp
+public/.bem/tmp
 node_modules
+vendor
 libs
+public/views/bundles/*/*
+!public/views/bundles/*/*.blade.php
+public/assets/*/*
+!public/assets/*/*.bemdecl.js
+!public/assets/*/*.nodeps.js

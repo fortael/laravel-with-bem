@@ -1,0 +1,1 @@
+/*borschik:include:../../../libs/ym/modules.js*/
